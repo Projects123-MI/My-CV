@@ -1,2 +1,2 @@
-# My-CV
-CV Zikri
+# cv-zikri
+Cv-Zikri
